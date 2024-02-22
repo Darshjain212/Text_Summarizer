@@ -7,5 +7,5 @@ path_to_yaml = "config/config.yaml"
 CONFIG_FILE_PATH = Path(path_to_yaml)
 
 path_to_param = "params.yaml"
-PARAMS_FILE_PATH = Path(path_to_yaml)
+PARAMS_FILE_PATH = Path(path_to_param)
 
